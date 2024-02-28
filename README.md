@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Banti Patel and I'm a Full-stack Developer, from India</h2>
+<h2 align="left">Hi 👋! My name is Banti Patel and I'm a Front-end Developer, from India</h2>
 
 ###
 
