@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working as a full stack developer.<br>🌱 I’m currently learning Typescript.<br>💬 Ask me about Web Development, Mobile Game, Cricket.
+🔭 I’m looking for a job as a MERN stack developer.<br>🌱 I’m currently learning Typescript.<br>💬 Ask me about Web Development, Mobile Game, Cricket.
 
 ## 🌐 Socials:
 
