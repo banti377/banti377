@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m a Frontend developer.<br>💬 Ask me about Web Development, Mobile Game, Cricket.
+🔭 I’m a Fullstack developer.<br>💬 Ask me about Web Development, Mobile Game, Cricket.
 
 ## 🌐 Socials:
 
